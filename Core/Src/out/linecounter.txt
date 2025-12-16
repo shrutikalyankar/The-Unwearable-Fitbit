@@ -1,0 +1,34 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2025-12-10 22:16:57
+count workspace : c:\Users\Owner\OneDrive\Courses\ESD\final\UNWEARABLE_FITBIT\Core\Src
+total files : 17
+total code lines : 1908
+total comment lines : 1087
+total blank lines : 572
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |             .c|           1908|           1087|            572| 1.0e+2|
+   -------------------------------------------------------------------------
+accelerometer.c, code is 32, comment is 19, blank is 11.
+heartrate.c, code is 177, comment is 59, blank is 46.
+i2c.c, code is 52, comment is 14, blank is 14.
+joystick.c, code is 61, comment is 38, blank is 18.
+lcd.c, code is 157, comment is 41, blank is 36.
+main.c, code is 133, comment is 35, blank is 37.
+pages.c, code is 284, comment is 64, blank is 67.
+pedometer.c, code is 46, comment is 26, blank is 13.
+spi.c, code is 37, comment is 12, blank is 11.
+stm32f4xx_hal_msp.c, code is 115, comment is 170, blank is 77.
+stm32f4xx_it.c, code is 46, comment is 130, blank is 41.
+syscalls.c, code is 123, comment is 25, blank is 28.
+sysmem.c, code is 24, comment is 48, blank is 7.
+system_stm32f4xx.c, code is 347, comment is 318, blank is 82.
+systick.c, code is 51, comment is 21, blank is 16.
+uart.c, code is 96, comment is 39, blank is 31.
+workout_inference.c, code is 127, comment is 28, blank is 37.
+===============================================================================

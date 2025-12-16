@@ -1,0 +1,13 @@
+../Core/Src/lcd.c:14:13:LCD_SendCommand	1
+../Core/Src/lcd.c:23:13:LCD_SendData	1
+../Core/Src/lcd.c:32:13:LCD_SendData16	1
+../Core/Src/lcd.c:39:13:LCD_SetAddressWindow	1
+../Core/Src/lcd.c:54:13:LCD_GPIO_Init	1
+../Core/Src/lcd.c:88:6:LCD_Init	5
+../Core/Src/lcd.c:115:6:LCD_Clear	1
+../Core/Src/lcd.c:121:6:LCD_DrawPixel	1
+../Core/Src/lcd.c:128:6:LCD_DrawRect	3
+../Core/Src/lcd.c:143:6:LCD_FillRect	2
+../Core/Src/lcd.c:159:6:LCD_DrawChar	7
+../Core/Src/lcd.c:187:6:LCD_DrawString	4
+../Core/Src/lcd.c:213:6:OpeningScreen_Slide	2

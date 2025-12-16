@@ -1,0 +1,3 @@
+../Core/Src/pedometer.c:27:6:CalculateBMR	24	static
+../Core/Src/pedometer.c:46:6:Pedometer_Update	24	static
+../Core/Src/pedometer.c:72:6:Pedometer_GetStats	16	static

@@ -1,0 +1,13 @@
+../Core/Src/lcd.c:14:13:LCD_SendCommand	16	static
+../Core/Src/lcd.c:23:13:LCD_SendData	16	static
+../Core/Src/lcd.c:32:13:LCD_SendData16	16	static
+../Core/Src/lcd.c:39:13:LCD_SetAddressWindow	24	static
+../Core/Src/lcd.c:54:13:LCD_GPIO_Init	4	static
+../Core/Src/lcd.c:88:6:LCD_Init	24	static
+../Core/Src/lcd.c:115:6:LCD_Clear	24	static
+../Core/Src/lcd.c:121:6:LCD_DrawPixel	16	static
+../Core/Src/lcd.c:128:6:LCD_DrawRect	32	static
+../Core/Src/lcd.c:143:6:LCD_FillRect	32	static
+../Core/Src/lcd.c:159:6:LCD_DrawChar	64	static
+../Core/Src/lcd.c:187:6:LCD_DrawString	40	static
+../Core/Src/lcd.c:213:6:OpeningScreen_Slide	24	static

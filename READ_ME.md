@@ -1,0 +1,31 @@
+Pin configurations
+
+LCD:
+SCK - PA5
+MOSI - PA7
+MISO - NC
+CS - PE0
+DC - PB7
+reset - PB8
+LED - 3V
+VCC - 3V
+GND - GND
+
+JOYSTICK:
+VRx - PA0
+VRy - PA1
+SW - PC13
+5V- 3V
+GND - GND
+
+HR MONITOR:
+VIN -> 3V
+GND -> GND
+SDA -> PB9
+SCL -> PB6
+
+BLUETOOTH UART:
+RXD -> PA2
+TXD -> PA3
+3V -> 3V
+GND -> GND

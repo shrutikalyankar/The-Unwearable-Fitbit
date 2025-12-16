@@ -1,0 +1,10 @@
+../Core/Src/uart.c:15:5:getchar_polled	4	static
+../Core/Src/uart.c:21:6:putchar_polled	16	static
+../Core/Src/uart.c:27:5:getchar_nonblocking	4	static
+../Core/Src/uart.c:44:6:UART_ProcessInput	16	static
+../Core/Src/uart.c:87:5:UART_TextReady	4	static
+../Core/Src/uart.c:94:7:UART_GetLine	4	static
+../Core/Src/uart.c:109:6:sendString	16	static
+../Core/Src/uart.c:116:6:sendStringGreen	16	static
+../Core/Src/uart.c:122:6:sendCharGreen	16	static
+../Core/Src/uart.c:129:6:UART_Init	4	static

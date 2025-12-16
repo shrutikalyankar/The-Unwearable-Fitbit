@@ -1,0 +1,14 @@
+../Core/Src/pages.c:39:6:Pages_Display	24	static
+../Core/Src/pages.c:79:6:Pages_UpdateTime	24	static
+../Core/Src/pages.c:97:6:Pages_UpdateStats	24	static
+../Core/Src/pages.c:112:6:Pages_UpdateWorkout	16	static
+../Core/Src/pages.c:133:6:Pages_NextPage	8	static
+../Core/Src/pages.c:141:6:Pages_PrevPage	8	static
+../Core/Src/pages.c:149:6:Pages_AddText	24	static
+../Core/Src/pages.c:177:6:Pages_ClearTexts	16	static
+../Core/Src/pages.c:191:13:DrawAnalogClock	112	static
+../Core/Src/pages.c:248:13:DrawDigitalClock	40	static
+../Core/Src/pages.c:262:13:DrawWorkoutIcon	48	static
+../Core/Src/pages.c:281:13:DrawWorkoutsPage	40	static
+../Core/Src/pages.c:323:13:DrawStatsPage	56	static
+../Core/Src/pages.c:370:13:DrawTextsPage	48	static

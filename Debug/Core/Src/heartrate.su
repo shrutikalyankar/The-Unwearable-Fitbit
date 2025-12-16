@@ -1,0 +1,7 @@
+../Core/Src/heartrate.c:30:6:MAX30102_Init	24	static
+../Core/Src/heartrate.c:80:7:MAX30102_ReadTemperature	16	static
+../Core/Src/heartrate.c:92:6:MAX30102_ReadFIFO	24	static
+../Core/Src/heartrate.c:112:13:IsIncreasing	24	static
+../Core/Src/heartrate.c:131:13:CalculateHeartRate	48	static
+../Core/Src/heartrate.c:196:13:CalculateSpO2	72	static
+../Core/Src/heartrate.c:241:6:MAX30102_Update	24	static

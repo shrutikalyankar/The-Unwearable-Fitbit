@@ -1,0 +1,126 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\Owner\\OneDrive\\Courses\\ESD\\final\\UNWEARABLE_FITBIT\\Core\\Src",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2025-12-10 22:16:57",
+            "filesum": 17,
+            "codesum": 1908,
+            "commentsum": 1087,
+            "blanksum": 572,
+            "statistics": {
+                ".c": {
+                    "code": 1908,
+                    "comment": 1087,
+                    "blank": 572
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 11,
+                    "code": 32,
+                    "comment": 19,
+                    "filename": "accelerometer.c"
+                },
+                {
+                    "blank": 46,
+                    "code": 177,
+                    "comment": 59,
+                    "filename": "heartrate.c"
+                },
+                {
+                    "blank": 14,
+                    "code": 52,
+                    "comment": 14,
+                    "filename": "i2c.c"
+                },
+                {
+                    "blank": 18,
+                    "code": 61,
+                    "comment": 38,
+                    "filename": "joystick.c"
+                },
+                {
+                    "blank": 36,
+                    "code": 157,
+                    "comment": 41,
+                    "filename": "lcd.c"
+                },
+                {
+                    "blank": 37,
+                    "code": 133,
+                    "comment": 35,
+                    "filename": "main.c"
+                },
+                {
+                    "blank": 67,
+                    "code": 284,
+                    "comment": 64,
+                    "filename": "pages.c"
+                },
+                {
+                    "blank": 13,
+                    "code": 46,
+                    "comment": 26,
+                    "filename": "pedometer.c"
+                },
+                {
+                    "blank": 11,
+                    "code": 37,
+                    "comment": 12,
+                    "filename": "spi.c"
+                },
+                {
+                    "blank": 77,
+                    "code": 115,
+                    "comment": 170,
+                    "filename": "stm32f4xx_hal_msp.c"
+                },
+                {
+                    "blank": 41,
+                    "code": 46,
+                    "comment": 130,
+                    "filename": "stm32f4xx_it.c"
+                },
+                {
+                    "blank": 28,
+                    "code": 123,
+                    "comment": 25,
+                    "filename": "syscalls.c"
+                },
+                {
+                    "blank": 7,
+                    "code": 24,
+                    "comment": 48,
+                    "filename": "sysmem.c"
+                },
+                {
+                    "blank": 82,
+                    "code": 347,
+                    "comment": 318,
+                    "filename": "system_stm32f4xx.c"
+                },
+                {
+                    "blank": 16,
+                    "code": 51,
+                    "comment": 21,
+                    "filename": "systick.c"
+                },
+                {
+                    "blank": 31,
+                    "code": 96,
+                    "comment": 39,
+                    "filename": "uart.c"
+                },
+                {
+                    "blank": 37,
+                    "code": 127,
+                    "comment": 28,
+                    "filename": "workout_inference.c"
+                }
+            ]
+        }
+    ]
+}
