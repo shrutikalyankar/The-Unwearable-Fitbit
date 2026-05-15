@@ -37,7 +37,7 @@ The name? A tongue-in-cheek nod to how "wearable" it ended up being. The enginee
 ---
 
 ## Block Diagram
-<img src="https://raw.githubusercontent.com/shrutikalyankar/The-Unwearable-Fitbit/main/Images/" alt="Flowchart" width="500"/>
+<img src="https://raw.githubusercontent.com/shrutikalyankar/The-Unwearable-Fitbit/main/Images/BlockDiagram.jpg" alt="Flowchart" width="500"/>
 ---
 
 ## Hardware
