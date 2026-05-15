@@ -1,7 +1,7 @@
 # The Unwearable Fitbit
 
 > A DIY smartwatch built from scratch on a Cortex-M4 microcontroller — because why buy a Fitbit when you can build one?
-<img src="https://github.com/cu-ecen-aeld/final-project-shrutikalyankar/blob/main/Supporting_Files/Wiki/Block_Diagram.png](https://github.com/shrutikalyankar/The-Unwearable-Fitbit/blob/main/Images/theUnwearableFitbit.jpg" alt="Flowchart" width="500"/>
+<img src="https://raw.githubusercontent.com/shrutikalyankar/The-Unwearable-Fitbit/main/Images/theUnwearableFitbit.jpg" alt="Flowchart" width="500"/>
 
 
 **Final Project — Embedded Systems Design**
@@ -37,7 +37,7 @@ The name? A tongue-in-cheek nod to how "wearable" it ended up being. The enginee
 ---
 
 ## Block Diagram
-<img src="[https://github.com/cu-ecen-aeld/final-project-shrutikalyankar/blob/main/Supporting_Files/Wiki/Block_Diagram.png](https://github.com/shrutikalyankar/The-Unwearable-Fitbit/blob/main/Images/BlockDiagram.jpg)" alt="Flowchart" width="500"/>
+<img src="https://github.com/cu-ecen-aeld/final-project-shrutikalyankar/blob/main/Supporting_Files/Wiki/Block_Diagram.png](https://github.com/shrutikalyankar/The-Unwearable-Fitbit/blob/main/Images/](https://raw.githubusercontent.com/shrutikalyankar/The-Unwearable-Fitbit/main/Images/BlockDiagram.jpg" alt="Flowchart" width="500"/>
 ---
 
 ## Hardware
