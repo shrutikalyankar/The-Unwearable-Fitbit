@@ -53,7 +53,7 @@ Workout classification runs entirely on-device using **STM32 X-CUBE-AI**. Sensor
 
 ##  Team
 
-Shruti Kalyankar – *Shruti.Kalyankar@colorado.edu*
+Shruti Kalyankar
 Daphne Felt
 ---
 
