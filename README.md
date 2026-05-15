@@ -1,6 +1,8 @@
 # The Unwearable Fitbit
 
 > A DIY smartwatch built from scratch on a Cortex-M4 microcontroller — because why buy a Fitbit when you can build one?
+<img src="https://github.com/cu-ecen-aeld/final-project-shrutikalyankar/blob/main/Supporting_Files/Wiki/Block_Diagram.png](https://github.com/shrutikalyankar/The-Unwearable-Fitbit/blob/main/Images/theUnwearableFitbit.jpg" alt="Flowchart" width="500"/>
+
 
 **Final Project — Embedded Systems Design**
 
@@ -32,6 +34,10 @@ The name? A tongue-in-cheek nod to how "wearable" it ended up being. The enginee
 - **Workout Classification** — On-device ML inference using STM32 X-CUBE-AI to detect workout type from sensor data
 - **Custom Peripheral Drivers** — Hand-written drivers for SPI, I2C, and UART; no HAL shortcuts
 
+---
+
+## Block Diagram
+<img src="[https://github.com/cu-ecen-aeld/final-project-shrutikalyankar/blob/main/Supporting_Files/Wiki/Block_Diagram.png](https://github.com/shrutikalyankar/The-Unwearable-Fitbit/blob/main/Images/BlockDiagram.jpg)" alt="Flowchart" width="500"/>
 ---
 
 ## Hardware
